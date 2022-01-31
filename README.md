@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev" style="#ffffff;">Krypton612</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev" style="color:#D43F52;" >Krypton612</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
 
 </samp>
