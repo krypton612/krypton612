@@ -4,7 +4,7 @@
 
  ### Hey! Welcome to my profile! 
 
-   - 🚀 Passionate about web development and cybersecurity.
+   - 🚀 Passionate about application development and cybersecurity.
  
    - 🔭 C - C++ - Java - Bash - Python - Php - Html, etc.
    - 💻 Studying | C# .
