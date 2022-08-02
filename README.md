@@ -21,6 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=00aae4)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android%20studio&logoColor=00bb2d)&nbsp;
 
 <br>
    - 💻 Studying | C# .
