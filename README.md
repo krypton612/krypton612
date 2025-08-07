@@ -26,7 +26,7 @@
 <br>
    - 💻 Studying | C# .
    - ✨ Never Stop Learning
-   - 🔭 [Telegram](https://t.me/Krypton612)
+   - 🔭 [Telegram](https://t.me/Krypton612)      ✅
 
  
 </span>
