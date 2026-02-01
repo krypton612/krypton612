@@ -33,17 +33,17 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krypton612&show_icons=true&theme=merko&hide_border=true" alt="Github Stats" height=175/>
+ <img src="https://github-streak-stats-ruby.vercel.app/?user=krypton612&theme=merko&hide_border=false&border_radius=4.5&locale=pt&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de krypton612" width="466"  height="194" loading='lazy'/>
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypton612&layout=compact&theme=merko&hide_border=true" alt="Github Stats" height=135 />
+  <img src="https://helio-github-stats.vercel.app/api?username=krypton612&custom_title=GitHub%20Stats&theme=merko&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
 </span>
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
