@@ -23,7 +23,7 @@
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=00aae4)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android%20studio&logoColor=00bb2d)&nbsp;
 
-<br>
+### Skills and contact
    - 💻 Studying | C# .
    - ✨ Never Stop Learning
    - 🔭 [Telegram](https://t.me/Krypton612)      ✅
